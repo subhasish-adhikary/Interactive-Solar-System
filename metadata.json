@@ -1,0 +1,6 @@
+{
+  "name": "Interactive Solar System",
+  "description": "Interactive Solar System learning demo showing the Sun, orbital motion of all eight planets, planetary data, and speed controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
